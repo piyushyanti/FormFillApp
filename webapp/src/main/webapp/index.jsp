@@ -9,11 +9,6 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
-
-    <label for="Last Name"><b>Last_Name</b></label>
-    <input type="text" placeholder="Last Name" name="name" id="name" required>
-    <br>
-
     <label for="aadhar"><b>Aadhar</b></label>
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
