@@ -25,7 +25,10 @@
     <label for="brother"><b>brother Name</b></label>
     <input type="text" placeholder="brother Name" name="brother" id="brother" required>
     <br>
-
+    
+    <label for="son"><b>son Name</b></label>
+    <input type="text" placeholder="son Name" name="son" id="son" required>
+    <br>
 
     <label for="aadhar"><b>Aadhar</b></label>
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
